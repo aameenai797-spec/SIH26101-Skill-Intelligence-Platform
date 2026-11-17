@@ -1,0 +1,8 @@
+Official statistics are numerical information about the economic, demographic, social and environmental conditions of a country.
+Survey design defines the objectives, target population, data collection method and operational plan of a statistical survey.
+Sampling is the process of selecting a representative subset from a population to estimate population characteristics.
+Data quality includes accuracy, relevance, timeliness, accessibility, coherence and interpretability.
+Python is a programming language widely used for data processing, statistical analysis and automation.
+SQL is used to store, retrieve and manage structured information in relational databases.
+Data privacy refers to the responsible collection, processing, storage and sharing of personal information.
+Cybersecurity protects systems, networks and data from unauthorized access, disruption and misuse.
