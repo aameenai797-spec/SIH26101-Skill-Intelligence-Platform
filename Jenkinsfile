@@ -37,7 +37,8 @@ pipeline {
 
         stage('Security Scan') {
             steps {
-                sh '${VENV}/bin/python -m bandit -r app.py -ll'
+                // B104 is excluded because 0.0.0.0 is required for Docker networking.
+sh '${VENV}/bin/python -m bandit -r app.py -ll -s B104'
             }
         }
 
